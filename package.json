@@ -24,7 +24,9 @@
   "scripts": {
     "test": "echo 'TODO: Replace Grunt'"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@angular-eslint/template-parser": "^12.3.1"
+  },
   "keywords": [
     "halstead",
     "visualize",
